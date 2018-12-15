@@ -8,8 +8,10 @@
 ## Datawire Envoy Tutorial
 - [Datawire Tutorial](https://www.datawire.io/envoyproxy/getting-started-lyft-envoy-microservices-resilience/)
 
+## Why Pivotal Choose Envoy & istio
+ - [Pivotal's Reason](https://www.cloudfoundry.org/blog/video-why-cloud-foundry-chose-istio-and-envoy-for-routing/)
 
-## Envoy 
+## EnvoyCon Tutorial
 - [Who is Envoy](https://schd.ws/hosted_files/envoyconna18/17/EnvoyCon%3B%20Who%20is%20Envoy_.pdf)
 - [Envoy xDS](https://schd.ws/hosted_files/envoyconna18/25/Slides%20for%20EnvoyCon.pdf)
 - [Envoy at Square](https://schd.ws/hosted_files/envoyconna18/e9/Envoy_at_Square.pdf)
