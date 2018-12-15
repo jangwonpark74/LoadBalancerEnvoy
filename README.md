@@ -10,6 +10,7 @@
 
 ## Why Pivotal Choose Envoy & istio
  - [Pivotal's Reason](https://www.cloudfoundry.org/blog/video-why-cloud-foundry-chose-istio-and-envoy-for-routing/)
+ - [Video by Cloud Foundry & Envoy with Istio](https://www.cloudfoundry.org/blog/video-why-cloud-foundry-chose-istio-and-envoy-for-routing/)
 
 ## EnvoyCon Tutorial
 - [Who is Envoy](https://schd.ws/hosted_files/envoyconna18/17/EnvoyCon%3B%20Who%20is%20Envoy_.pdf)
