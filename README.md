@@ -19,3 +19,7 @@
 - [Envoy at Square](https://schd.ws/hosted_files/envoyconna18/e9/Envoy_at_Square.pdf)
 - [Running Envoy at Edge L4/L7 eBay](https://schd.ws/hosted_files/envoyconna18/ae/EnvoyCon%20presentation%20%281%29.pdf)
 - [Envoy & HaProxy](https://schd.ws/hosted_files/envoyconna18/0d/Envoy%20at%20Yelp.pdf)
+
+
+## Tetrate Isto Cloud Map Operator
+ - [Cloud Map](https://www.tetrate.io/blog/istio-cloud-map-operator/)
